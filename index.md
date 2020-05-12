@@ -73,10 +73,11 @@ precision in laboratory work, where the smallest of errors may be disastrous.
 
 ## Publications
 
- 2) T. Shinagawa, <u>M.T.-K. Ng</u>, K. Takanabe, **Electrolyte engineering towards efficient water splitting at mild pH**, 
-<i>ChemSusChem</i>, (2017), **10**, 4155.
- 1) T. Shinagawa, <u>M.T.-K. Ng</u>, K. Takanabe, **Boosting the performance of the nickel anode in the oxygen evolution reaction by simple electrochemical activation** 
+1) T. Shinagawa, <u>M.T.-K. Ng</u>, K. Takanabe, **Boosting the performance of the nickel anode in the oxygen evolution reaction by simple electrochemical activation** 
 , <i>Angew. Chem.</i>, (2017), **129**, 5143-5147
+2) T. Shinagawa, <u>M.T.-K. Ng</u>, K. Takanabe, **Electrolyte engineering towards efficient water splitting at mild pH**, 
+<i>ChemSusChem</i>, (2017), **10**, 4155.
+
 
 
 ## Posters & Presentations
